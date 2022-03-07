@@ -9,7 +9,7 @@ Directory hirerchy
 2) data_to_check.py --- This file is used to store the static data which is used to compare in testing.
 3) test_fizzbuzz_operation.py --- This file consists of testcase to validate the API's works as expected.
 4) Dockerfile --- Its a file which can moved as a image to run the application. command is (docker build -t Dockerfile)
-5) requirements.txt --- It is used to install all the dependent packages before running the aplication.
+5) requirements.txt --- It is used to install all the dependent packages before running the aplication. command (pip install -r requirements.txt)
 
 How to run the fizzbuzz application:
 Once the once steps done.Go to fizzbuzz_app directory
