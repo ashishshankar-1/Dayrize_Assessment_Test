@@ -1,5 +1,4 @@
-# Dayrize_Assessment_Test
-Assessment Test For Dayrize
+# Ashish Standalone project
 
 This repo belongs to implementation of fizzbuzz application.
 Directory hirerchy
