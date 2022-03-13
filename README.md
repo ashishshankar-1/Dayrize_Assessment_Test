@@ -1,4 +1,4 @@
-# Ashish Standalone project
+# Implemented Fizzbuzz problem using FastApi.
 
 This repo belongs to implementation of fizzbuzz application.
 Directory hirerchy
